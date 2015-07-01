@@ -1,0 +1,427 @@
+/* ==== Media Queries ==== */
+
+/* Mobile Screen Wide */
+@media (min-width : 480px) and (max-width : 720px) {
+
+
+
+#contact input[type="text"], #contact textarea {
+		width:350px;
+}
+
+	#contact textarea { 
+		width: 350px;
+
+
+	 }
+
+	#contact .btn {
+		width:384px; 
+
+	}
+
+#navigation ul
+{
+    width: 400px;
+
+}
+
+#navul li
+{
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+        #historiek p
+{
+    width: 400px;
+
+}
+    
+#header .container img
+{
+    width: 170px;
+    margin-top: 80px;
+}
+#navigation ul
+{
+    width: 375px;
+}
+
+#navul li
+{
+    padding-left: 4px;
+    padding-right: 4px;
+}
+    #navigation a:link, a:visited 
+{
+    font-size: 15px;
+
+}
+}
+
+/* ----------------------------------------------------------------------*/
+
+/* Tablet Screen Big */
+@media (min-width : 720px) and (max-width : 1280px) {
+
+
+#TeamMembers li
+{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+#contact input[type="text"], #contact textarea {
+		width:450px;
+}
+
+	#contact textarea { 
+		width: 450px;
+
+
+	 }
+
+	#contact .btn {
+		width:480px; 
+
+	}
+
+#navigation ul
+{
+    width: 445px;
+
+}
+
+#navul li
+{
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+        #historiek p
+{
+    width: 450px;
+
+    
+}
+    #header .container img
+{
+    width: 200px;
+    margin-top: 100px;
+}
+#navigation ul
+{
+    width: 410px;
+}
+
+#navul li
+{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+    #navigation a:link, a:visited 
+{
+    font-size: 18px;
+
+}
+}
+
+/* ----------------------------------------------------------------------*/
+
+/* Wide Screen */
+@media (min-width : 1280px) {
+
+
+#TeamMembers li
+{
+    width: 25%;
+    float: left;
+    display: block;
+}
+
+    #fles1
+{
+    width: 175px;
+    float: left;
+    margin-right: 175px;
+    margin-top: 30px;
+}
+
+#wijninfo1
+{
+    width: 250px;
+    float: left;
+    margin-right: 195px;
+}
+
+#fichenoemie1
+{
+    width: 325px;
+    float: left;
+}
+    
+#fles2
+{
+    width: 175px;
+    float: right;
+    margin-left: 175px;
+}
+
+#wijninfo2
+{
+    width: 250px;
+    float: right;
+    margin-left: 195px;
+    margin-top: 50px;
+}
+
+#fichenoemie2
+{
+    width: 325px;
+    float: right;
+    margin-top: 50px;
+}
+    
+#ficheBoven
+{
+    margin-left: 16%;
+}
+
+#fichebeneden
+{
+    margin-top: 100px;
+    margin-right: 16%;
+}
+    
+#wijncontent
+    {
+            padding-bottom: 150px;
+    }
+#contact input[type="text"], #contact textarea {
+		width:520px;
+		height: 50px;
+
+
+}
+
+	#contact textarea { 
+		width: 520px;
+		height: 100px;
+		margin-bottom: 10px;
+
+
+	 }
+
+	#contact .btn {
+		width:550px; 
+
+	}
+
+	.span6
+	{
+		display: block;
+		float: left;
+		height: 200px;
+		width: 575px;
+	}
+
+	#contform{
+		height: 400px;
+		width: 1150px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+    
+    #navigation ul
+{
+    width: 500px;
+
+}
+
+#navul li
+{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+    #historiek p
+{
+    width: 550px;
+
+    
+}
+    
+        #header .container img
+{
+    width: 250px;
+    margin-top: 100px;
+}
+#navigation ul
+{
+    width: 515px;
+}
+
+#navul li
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    #navigation a:link, a:visited 
+{
+    font-size: 20px;
+
+}
+}
+
+
+
+
+/* ----------------------------------------------------------------------*/
+
+/* Wide Screen */
+@media (min-width : 1800px) {
+
+
+#TeamMembers li
+{
+    width: 25%;
+    float: left;
+    display: block;
+}
+
+    #fles1
+{
+    width: 175px;
+    float: left;
+    margin-right: 175px;
+    margin-top: 30px;
+
+}
+
+#wijninfo1
+{
+    width: 250px;
+    float: left;
+    margin-right: 195px;
+}
+
+#fichenoemie1
+{
+    width: 325px;
+    float: left;
+}
+    
+#fles2
+{
+    width: 175px;
+    float: right;
+    margin-left: 195px;
+}
+
+#wijninfo2
+{
+    width: 250px;
+    float: right;
+    margin-left: 175px;
+    margin-top: 50px;
+}
+
+#fichenoemie2
+{
+    width: 325px;
+    float: right;
+    margin-top: 50px;
+}
+    
+#ficheBoven
+{
+    margin-left: 20%;
+}
+
+#fichebeneden
+{
+    margin-top: 100px;
+    margin-right: 20%;
+}
+    
+#wijncontent
+    {
+            padding-bottom: 150px;
+    }
+#contact input[type="text"], #contact textarea {
+		width:520px;
+		height: 50px;
+
+
+}
+
+	#contact textarea { 
+		width: 520px;
+		height: 100px;
+		margin-bottom: 10px;
+
+
+	 }
+
+	#contact .btn {
+		width:550px; 
+
+	}
+
+	.span6
+	{
+		display: block;
+		float: left;
+		height: 200px;
+		width: 575px;
+	}
+
+	#contform{
+		height: 400px;
+		width: 1150px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+    
+    #navigation ul
+{
+    width: 500px;
+
+}
+
+#navul li
+{
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+    #historiek p
+{
+    width: 550px;
+
+    
+}
+            #header .container img
+{
+    width: 250px;
+    margin-top: 100px;
+}
+#navigation ul
+{
+    width: 515px;
+}
+
+#navul li
+{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+    #navigation a:link, a:visited 
+{
+    font-size: 20px;
+
+}
+}
